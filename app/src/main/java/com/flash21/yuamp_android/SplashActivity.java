@@ -31,6 +31,14 @@ import com.gun0912.tedpermission.PermissionListener;
 import com.gun0912.tedpermission.TedPermission;
 
 
+import org.apache.http.HttpEntity;
+import org.apache.http.HttpResponse;
+import org.apache.http.NameValuePair;
+import org.apache.http.client.entity.UrlEncodedFormEntity;
+import org.apache.http.client.methods.HttpPost;
+import org.apache.http.cookie.Cookie;
+import org.apache.http.impl.client.DefaultHttpClient;
+import org.apache.http.message.BasicNameValuePair;
 import org.json.JSONObject;
 
 import java.io.BufferedOutputStream;
@@ -202,10 +210,70 @@ public class SplashActivity extends Activity {
                 e.printStackTrace();
 
             }
+//            try {
+//                ArrayList<NameValuePair> pairs = new ArrayList<NameValuePair>();
+//                pairs.add(new BasicNameValuePair("key_num", tk));
+//                pairs.add(new BasicNameValuePair("j_cellNo", "01031503050")); //getDeviceInfo()[0] 01043305737
+//                pairs.add(new BasicNameValuePair("device", getDeviceInfo()[1]));
+//                pairs.add(new BasicNameValuePair("version", getDeviceInfo()[2]));
+//                pairs.add(new BasicNameValuePair("j_siteKey", "ST0043"));
+//                pairs.add(new BasicNameValuePair("type", "android"));
+//                pairs.add(new BasicNameValuePair("j_division", "MOBILE"));
+//                pairs.add(new BasicNameValuePair("app_version", info.versionCode + ""));
+//                DefaultHttpClient client = new DefaultHttpClient();
+//                HttpPost post = new HttpPost(url);
+//                post.setEntity(new UrlEncodedFormEntity(pairs, "utf-8"));
+//
+//                HttpResponse response = client.execute(post);
+//
+//                HttpEntity ent = response.getEntity();
+//
+//                InputStream is = null;
+//                String result = "";
+//                is = ent.getContent();
+//
+//                List<Cookie> cookies = client.getCookieStore().getCookies();
+//
+//                if (!cookies.isEmpty()) {
+//                    for (int i = 0; i < cookies.size(); i++) {
+//
+//                        String cookieString = cookies.get(i).getName() + "=" + cookies.get(i).getValue();
+//
+//                        if (MainActivity.cookieManager == null) {
+//                            MainActivity.cookieManager = CookieManager.getInstance();
+//                        }
+//                        MainActivity.cookieManager.setCookie(PageInfo.INDEX_PAGE, cookieString);
+//                    }
+//                }
+//
+//                BufferedReader reader = new BufferedReader(new InputStreamReader(is, "UTF-8"), 8);    // 인코딩 처리 버퍼드리더 얻어옴
+//                StringBuilder sb = new StringBuilder();
+//
+//                String line = null;
+//
+//                while ((line = reader.readLine()) != null) {
+//                    sb.append(line);
+//                }
+//                is.close();
+//                result = sb.toString();
+//                String httpStatus = String.valueOf(response.getStatusLine());
+//
+//                if (httpStatus.contains("500")) {
+//                    return false;
+//                } else {
+//                    JSONObject jsonObject = new JSONObject(result);
+//                    connName = jsonObject.getString("USER_NM");
+//                    marketVersion = jsonObject.getString("APP_VER_ANDROID");
+//                    return true;
+//                }
+//            } catch (Exception e) {
+//                return false;
+//            }
             try {
                 URL url = new URL(urls[0]);
                 List<Pair> params = new ArrayList<>();
-                params.add(new Pair("key_num", tk));
+
+                params.add(new Pair("mobile_token", tk));
                 params.add(new Pair("j_cellNo", "01031503050")); //getDeviceInfo()[0] 01043305737 //01031503050
                 params.add(new Pair("device", getDeviceInfo()[1]));
                 params.add(new Pair("version", getDeviceInfo()[2]));
@@ -215,7 +283,6 @@ public class SplashActivity extends Activity {
                 params.add(new Pair("app_version", info.versionCode + ""));
 
                 byte[] postData = CreateQuery(params, "UTF-8");
-
 
                 HttpURLConnection urlConnection = (HttpURLConnection) url.openConnection();
                 urlConnection.setRequestMethod("POST");
@@ -267,6 +334,10 @@ public class SplashActivity extends Activity {
                     return false;
                 } else {
                     JSONObject jsonObject = new JSONObject(result);
+//                    cookieManager.setAcceptCookie(true);
+                    String jsessionid = jsonObject.getString("JSESSIONID");
+//
+                    CookieManager.getInstance().setCookie(PageInfo.MAIN_PAGE, "JSESSIONID="+jsessionid);
 
                     connName = jsonObject.getString("USER_NM");
                     marketVersion = jsonObject.getString("APP_VER_ANDROID");

@@ -92,8 +92,8 @@ public class MainActivity extends AppCompatActivity {
 
         webView = findViewById(R.id.webView);
 
-//        String userAgent = webView.getSettings().getUserAgentString();
-//        webView.getSettings().setUserAgentString(userAgent + " app_flash21_mmate_android");
+        String userAgent = webView.getSettings().getUserAgentString();
+        webView.getSettings().setUserAgentString(userAgent + " app_flash21_mmate_android");
         WebViewSetting webViewSetting = new WebViewSetting(this, this, webView);
         webViewSetting.setWebView();
         webView.setWebChromeClient(new WebChrome(this, this) {
@@ -107,16 +107,15 @@ public class MainActivity extends AppCompatActivity {
                 return true;
             }
         });
-
-        if (CookieManager.getInstance().getCookie(PageInfo.MAIN_PAGE) != null) {
-            String[] test = CookieManager.getInstance().getCookie(PageInfo.MAIN_PAGE).split(";");
-            if (test != null) {
-                String a = test[0];
-                CookieManager.getInstance().setCookie(PageInfo.MAIN_PAGE, a);
-            }
-            CookieManager.getInstance().setCookie(PageInfo.MAIN_PAGE, "jsessionid=C5A05203146EF8F03FDD5ADA51DFC2D6");
-
-        }
+        cookieManager.setAcceptCookie(true);
+//        if (CookieManager.getInstance().getCookie(PageInfo.MAIN_PAGE) != null) {
+//            String[] test = CookieManager.getInstance().getCookie(PageInfo.MAIN_PAGE).split(";");
+//            if (test != null) {
+//                String a = test[0];
+//                CookieManager.getInstance().setCookie(PageInfo.MAIN_PAGE, a);
+//            }
+//            CookieManager.getInstance().setCookie(PageInfo.MAIN_PAGE, "jsessionid=C5A05203146EF8F03FDD5ADA51DFC2D6");
+//        }
         webView.loadUrl(PageInfo.MAIN_PAGE);
     }
 

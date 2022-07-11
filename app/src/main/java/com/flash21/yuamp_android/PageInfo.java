@@ -5,9 +5,9 @@ public class PageInfo {
     public static final String SITE_KEY = "ST0043";
 
     // 기본경로 페이지
-    public static final String INDEX_PAGE = "https://yuamp-mmate.flash21.com/";
+    public static final String INDEX_PAGE = "http://192.168.0.18/"; //http://192.168.0.18  https://yuamp-mmate.flash21.com/
 
-//	public static final String INDEX_PAGE2 = "http://192.168.0.16/s/YUAMP/main.do";
+//	public static final String INDEX_PAGE2 = "http://192.168.0.18/s/YUAMP/main.do";
 
     public static final String MAIN_PAGE = INDEX_PAGE + "s/yuamp/main.do";
 
