@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="yuamp_Color">#0D3F7A</color>
+    <color name="colorButton1">#BDBDBD</color>
+    <color name="colorButton1_1">#848484</color>
+    <color name="colorButton2">#E3F6CE</color>
+    <color name="colorButton2_1">#FFFF00</color>
+
+</resources>

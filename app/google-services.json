@@ -1,0 +1,2063 @@
+{
+  "project_info": {
+    "project_number": "552291761488",
+    "firebase_url": "https://flash21notebookproject.firebaseio.com",
+    "project_id": "flash21notebookproject",
+    "storage_bucket": "flash21notebookproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:415fdb28d0df15dd4cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.all_daegong_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:b95f8bcf2891b30c",
+        "android_client_info": {
+          "package_name": "com.flash21.ams_tcn_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:f64f738ed41b610b",
+        "android_client_info": {
+          "package_name": "com.flash21.asso_notebook_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:7161ee57cb004c02",
+        "android_client_info": {
+          "package_name": "com.flash21.cak_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:21c243a9b94962d34cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.cak_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:9bf6147cc337c8704cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.company305_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:8cdb4c8433dcc7e54cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.congress23_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:82605ed8f6714de8",
+        "android_client_info": {
+          "package_name": "com.flash21.cu_mipo_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:826679f36320122d",
+        "android_client_info": {
+          "package_name": "com.flash21.daegong_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:9a0fb6fa71dd507a4cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.daegong_jg_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:c3f366fc4e560c2b4cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.dalseo_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:f320566d31f384f24cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.dalseo_sportsclub2_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:e8b599dd5a65c8384cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.dcci_headquarters_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:8b407226b61a16e14cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.dcci_leaderforum_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:23b49de67855171a4cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.dccimsc_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:1a87451ad7c138fe4cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.dg_health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:11d4fa8bad0e32ec4cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.dg_healthy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:768586bb9ea7af0c4cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.dg_mask_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:7cb547fd1efc1b7b4cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.dg_metropolitan_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:d168a7efb4d4b8344cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.dghotple_walk_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:c540410b202a6ccd4cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.dgictapp_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:4b2c4c6d8d4fb3eb4cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.diora_kira_mmate_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:e4bd42210b399e5d4cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.dmss_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:ca6f24d6d07e86d54cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.eupjong_mmate_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:57b31ae9ac41940a4cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.goodata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:5ff1e9a45efe38cb4cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.gooddata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:942ebc9c966a03e74cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.gyeongju_culture_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:9f4cb61902b4f7374cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.gyeongju_jc_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:9fffcae1b20e0b04",
+        "android_client_info": {
+          "package_name": "com.flash21.hanulrions_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:942fe29a0c734aa94cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.jaegu_andong_highschool_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:c5293506107230bd4cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.kahp_west_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:8996c77dddc67aec",
+        "android_client_info": {
+          "package_name": "com.flash21.keca_daegu_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:5b8eb77aa5fdb8894cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.kibwadg_mmate_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:670eee7ae77efdfc4cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.kmcca_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:efa9dcfce6516efd4cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.kmou_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:735df5b92be6060f",
+        "android_client_info": {
+          "package_name": "com.flash21.kmupolice_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:4eb0dc948a508bb14cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.knu_amp_mmate_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:56ee1e57803f7328",
+        "android_client_info": {
+          "package_name": "com.flash21.knu_mba_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:02bb97a5da91ec434cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.knu_solab_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:d3f9950f04133d514cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.kosca_mmate_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:adb58f4f1133a30f4cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.kumnamlions_mmate_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:f788e829ed8d976f4cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.lion17_mmate_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:3c297c6d2f2d0721",
+        "android_client_info": {
+          "package_name": "com.flash21.maeil_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:b3e8939dbe6ff57d",
+        "android_client_info": {
+          "package_name": "com.flash21.mbc_notebook_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:1b89fdcdea417aa24cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.nambok_academy_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:10853443f8ce515a4cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.nice_dnb_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:b542abe3b8c82ab54cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.posco_highschool_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:ff5c70d41a0390e84cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.rions356a_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:e7df35023d396b1d",
+        "android_client_info": {
+          "package_name": "com.flash21.rions_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:21fa9e7ad67c3da24cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.songpa_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:6815b6f90a70ff204cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.songpa_marathon_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:57a5e0d87d41aaf94cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.teacherprotect_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:13c9a6d88b3ab4364cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.terminix_diary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:91d4460f6c4dc51e4cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.ttg_academy_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:60fd4d1881d37f584cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.ulsan_mmate_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:65dbfc324fc4d48a4cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.worldrions356_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552291761488:android:81028b3c81b632454cc055",
+        "android_client_info": {
+          "package_name": "com.flash21.yuamp_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnujZXmIZfQ_7n93y2RYzoH5XN50vMOGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552291761488-0hvtptminaol2uedopqeg8egskv8ei8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552291761488-2mr7l95jub5a0vafbkj6uqjm2s90mqhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flash21.posco-highschool"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

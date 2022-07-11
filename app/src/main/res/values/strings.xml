@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YU AMP</string>
+    <string name="default_notification_channel_id">YUAMP</string>
+    <string name="default_notification_channel_name">YUAMP</string>
+</resources>
